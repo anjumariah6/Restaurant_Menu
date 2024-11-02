@@ -1,0 +1,10 @@
+.Signed h1 {
+    font-weight: 500;
+    font-size: 50px;
+    color: blue;
+    height: 360px;
+    display: flex;
+    justify-content: center;
+    transform: translateY(150px);
+
+}
